@@ -14,7 +14,7 @@ Impartido entre el 18 y el 22 de Julio de 2016
   
 _Docentes:_
   - Guido Ianni
-  - Nicolás Hernán Cebolla
+  - Nicolás Hernán Zeolla
 
 _Carga horaria_: 4 encuentros de 2 horas cada uno
 
